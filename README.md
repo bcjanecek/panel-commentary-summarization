@@ -50,4 +50,4 @@ These comments capture the core ideas I gathered upon reading all forty comments
 * Connection with friends and family
 * Easy and convenient
 * User control (filtering / blocking)
-* A segment of users who do not seem to like anything about social media 
+* A segment of users who do not seem very enthusiastic about social media at all
