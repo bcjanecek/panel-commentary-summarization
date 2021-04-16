@@ -44,7 +44,7 @@ Given the thought vectors we then cluster them using DBSCAN. DBSCAN is selected 
 ### Initial Results
 The following table shows what the output of this project could potentially look like. Here we've condensed 40 thoughts down to nine in order from most to least popular all in around ten seconds. 
 
-![Results](result.png)
+![Results](result.PNG)
 
 These comments capture the core ideas I gathered upon reading all forty comments which include:
 * Connection with friends and family
