@@ -21,7 +21,7 @@ The available survey data includes:
 * Python 3.9
 * Transformers 4.4.2
 * Sent2vec 0.2.0
-* Pytorch 1.8.1
+* PyTorch 1.8.1
 * Scikit-learn 0.24.1
 * Matplotlib 3.4.1
 * Pandas 1.2.4
